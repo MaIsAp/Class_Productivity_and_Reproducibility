@@ -1,3 +1,7 @@
+# Data files
+/99_pre-registration
+/00_rawdata
+
 # History files
 .Rhistory
 .Rapp.history
