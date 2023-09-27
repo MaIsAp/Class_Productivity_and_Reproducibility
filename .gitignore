@@ -1,6 +1,6 @@
 # Data files
-/99_pre-registration
-/00_rawdata
+/99_pre-registration/
+/00_rawdata/
 
 # History files
 .Rhistory
@@ -36,7 +36,7 @@ vignettes/*.pdf
 *_cache/
 /cache/
 
-# Temporary files created by R markdown
+# Temporary files created by R markdownad
 *.utf8.md
 *.knit.md
 
