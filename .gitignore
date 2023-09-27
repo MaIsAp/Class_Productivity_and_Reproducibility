@@ -1,6 +1,6 @@
 # Data files
-/99_pre-registration/
-/00_rawdata/
+/99-pre_registration/
+/00-rawdata/
 
 # History files
 .Rhistory
