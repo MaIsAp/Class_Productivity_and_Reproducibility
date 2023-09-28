@@ -17,6 +17,11 @@ The folder structure is:\
    │   └── R-4.3\
    │       └── x86_64-pc-linux-gnu\
 
+01-scripts holds the scripts used to process the data. 
+02-outdata and 03-figs contain the outputs (tables and figures) produced on the scripts.
+Everything related to the manuscript text and render is on 04-manuscript.
+The renv folder contains the information about the package used on the R session from which the outputs were generated.
+
 The rawdata folder is not added on this project. The pre-registration folder has been added on another OSF project and the link can be found on the [wiki](https://osf.io/489wp/wiki/home/?view_only=6cef2d5f90e94f25a0e36b53ffc8d230).
 
-The 01-scripts folder has a script used to simulate data to show an example structure here.\
+
